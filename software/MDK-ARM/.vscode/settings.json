@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "*.pde": "c",
+        "usbd_cdc_if.h": "c",
+        "main.h": "c",
+        "motor.h": "c",
+        "i2c.h": "c",
+        "tim.h": "c",
+        "usb_device.h": "c",
+        "mpu6050.h": "c",
+        "imu.h": "c",
+        "pid.h": "c",
+        "stm32f1xx_it.h": "c",
+        "debug.h": "c",
+        "stdio.h": "c",
+        "math.h": "c",
+        "oled.h": "c",
+        "delay.h": "c",
+        "stdlib.h": "c",
+        "oledfont.h": "c",
+        "usart.h": "c"
+    }
+}
